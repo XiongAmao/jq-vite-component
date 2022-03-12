@@ -1,0 +1,17 @@
+{
+  "name": "yes",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.14",
+    "jquery": "^3.6.0",
+    "typescript": "^4.6.2",
+    "vite": "^2.8.0"
+  },
+  "dependencies": {}
+}
